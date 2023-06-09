@@ -25,7 +25,5 @@ Ensure that you have numpy and OpenCV installed. If not, you can install them us
 !pip install numpy
 !pip install opencv-python
 
-To run the file, open your command prompt and execute the following command, replacing "images/ipl.jpeg" with the path to your desired image:
 
-python yolo.py --image images/ipl.jpeg
 
